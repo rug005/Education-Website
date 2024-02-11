@@ -1,0 +1,121 @@
+h2{
+	color: white;
+}
+h3{
+	color: white;
+	font-size: 30px;
+}
+w{
+	color: white;
+}
+gold{
+	color: #FBBF24;
+}
+ul2{
+	list-style: inside circle;
+	width: 300px;
+}
+li2{
+	margin: 10px 0px 0px 0px;
+}
+
+.header{
+	background-image: url(images/Blue.jpg);
+
+	height: 100%;
+	width: 100%;
+	
+}
+.headers{
+	background-image: url(images/red.jpg);
+
+	height: 100%;
+	width: 100%;
+}
+
+
+.mySlide{
+	height: 100;
+	width: 100;
+}
+img.large{
+	width:300px;
+	height:300px;
+}
+img.small{
+	width:100px;
+	height:100px;
+}
+blockquote{
+	float: right;
+	width: 275px;
+	font-size: 130%;
+	font-style:  italic;
+	font-family: Georgia, Times, serif;
+	margin: 0px 0px 10px 10px;
+	padding: 10px;
+	border-top: 1px solid #665544;
+	border-bottom: 1px solid #665544;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+}
+
+#content {overflow: auto: }
+
+#nav, #feature, #footer{
+	margin: 1%;
+	background-image: url(images/lights.JPG);
+
+}
+
+
+#nav1, #feature1, #footer1{
+	margin: 1%;
+	background-image: url(images/red.jpg);
+
+}
+
+.column1, .column2, .column3{
+	width:  31.3%;
+	float: left;
+	margin:  1%;
+	object-fit: cover;
+}
+
+
+.column3 {margin-right: 0%;}
+li {
+	display: inline;
+	padding:  0.5em;
+}
+	#nav, #footer {
+		background-color:  #efefef;
+		padding: 0.5em 0;}
+		#feature, .article{
+			height: 10em;
+			margin-bottom: lem;
+			background-color: #efefef;
+			object-fit: cover;
+
+
+}
+
+div2{
+height: 3000px;
+width:  4000px;
+background-image: url(images/lights.JPG);
+}
+p1{
+	height: 7500px;
+	width:  7500px;
+	background-image: url(images/lights.JPG);
+}
+
+#div1{
+	border: 1px solid red;
+	margin-right: 20px;
+	margin-left: 20px;
+}
